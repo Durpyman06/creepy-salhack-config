@@ -1,0 +1,58 @@
+{
+  "configuration": {
+    "name": "Wurst+ 2",
+    "version": "1.0",
+    "user": "Durpyman06",
+    "prefix": "."
+  },
+  "gui": {
+    "WurstplusChat": {
+      "name": "Chat",
+      "tag": "WurstplusChat",
+      "x": 2,
+      "y": 10
+    },
+    "WurstplusCombat": {
+      "name": "Combat",
+      "tag": "WurstplusCombat",
+      "x": 112,
+      "y": 2
+    },
+    "WurstplusMovement": {
+      "name": "Movement",
+      "tag": "WurstplusMovement",
+      "x": 220,
+      "y": 10
+    },
+    "WurstplusRender": {
+      "name": "Render",
+      "tag": "WurstplusRender",
+      "x": 326,
+      "y": 12
+    },
+    "WurstplusExploit": {
+      "name": "Exploit",
+      "tag": "WurstplusExploit",
+      "x": 430,
+      "y": 10
+    },
+    "WurstplusMisc": {
+      "name": "Misc",
+      "tag": "WurstplusMisc",
+      "x": 535,
+      "y": 10
+    },
+    "WurstplusGUI": {
+      "name": "GUI",
+      "tag": "WurstplusGUI",
+      "x": 640,
+      "y": 10
+    },
+    "WurstplusBeta": {
+      "name": "Beta",
+      "tag": "WurstplusBeta",
+      "x": 745,
+      "y": 10
+    }
+  }
+}
